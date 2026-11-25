@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35385453/README.md)
+[README..md](https://github.com/user-attachments/files/35385557/README.md)
 # White Dragon — лендинг для заказа чая
 
 Одностраничный сайт (лендинг) интернет-магазина чая **White Dragon**. Весь код — HTML, CSS и JavaScript — находится в одном файле `white-dragon.html`, поэтому для запуска достаточно открыть его в браузере.
@@ -10,18 +10,6 @@
 | Файл | `white-dragon.html` |
 | Тип | Одностраничный сайт (landing page) |
 | Язык интерфейса | Русский (`lang="ru"`) |
-| Подход к вёрстке | Mobile First |
-| Брейкпоинты | от 768 px (планшет и десктоп), от 1024 px (3 колонки) |
-| Зависимости | Только CDN: Font Awesome 6.5.1, Google Fonts (Inter) |
-| JavaScript | Чистый (Vanilla JS), без библиотек и фреймворков |
-
-## Технологии
-
-- **HTML5** — семантические теги `<header>`, `<main>`, `<section>`, `<nav>`, `<article>`, `<footer>`.
-- **CSS3** — переменные (`:root`), Flexbox, Grid, медиазапросы, transition и keyframes-анимации.
-- **JavaScript (ES6+)** — шаблонные строки, `IntersectionObserver`, делегирование событий.
-- **Font Awesome** — иконки (дракон, корзина, соцсети, значки видов чая).
-- **Inter** — основной шрифт с запасным системным стеком.
 
 ## Дизайн
 
